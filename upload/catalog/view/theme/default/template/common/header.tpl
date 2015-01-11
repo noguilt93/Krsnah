@@ -36,6 +36,18 @@
 <?php foreach ($scripts as $script) { ?>
 <script src="<?php echo $script; ?>" type="text/javascript"></script>
 <?php } ?>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/ddpowerzoomer.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($){ //fire on DOM ready
+ $('.jqzoom').addpowerzoom({
+		defaultpower: 1.5, // zooming depth
+		powerrange: [1.5,2], // magnifying depth levels, separated by commas (switched by the mouse wheel)
+		magnifiersize: [200,200] // the size of the zoom window in pixels (no comma following last option!)
+	})
+})
+</script>
+
 <?php echo $google_analytics; ?>
 </head>
 <body class="<?php echo $class; ?>">
@@ -70,7 +82,7 @@
 <header>
   <div class="container">
     <div class="row">
-      <div class="col-sm-4">
+      <div class="col-md-offset-4 col-md-4">
         <div id="logo">
           <?php if ($logo) { ?>
           <a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" class="img-responsive" /></a>
@@ -79,9 +91,9 @@
           <?php } ?>
         </div>
       </div>
-      <div class="col-sm-5"><?php echo $search; ?>
+      <div class="col-md-9"><?php echo $search; ?>
       </div>
-      <div class="col-sm-3"><?php echo $cart; ?></div>
+      <div class="col-md-3"><?php echo $cart; ?></div>
     </div>
   </div>
 </header>

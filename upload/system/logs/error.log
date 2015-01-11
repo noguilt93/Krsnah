@@ -1,0 +1,28 @@
+2015-01-11 16:04:50 - PHP Notice:  Undefined variable: languages in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 64
+2015-01-11 16:04:50 - PHP Notice:  Undefined variable: currencies in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 75
+2015-01-11 16:04:50 - PHP Notice:  Undefined variable: text_cart in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 100
+2015-01-11 16:04:50 - PHP Notice:  Undefined variable: text_items in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 101
+2015-01-11 16:04:50 - PHP Notice:  Undefined variable: filter_name in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 106
+2015-01-11 16:04:50 - PHP Notice:  Undefined variable: text_search in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 109
+2015-01-11 16:04:50 - PHP Notice:  Undefined variable: text_cart in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 112
+2015-01-11 16:05:12 - PHP Notice:  Undefined variable: languages in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 64
+2015-01-11 16:05:12 - PHP Notice:  Undefined variable: currencies in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 75
+2015-01-11 16:05:12 - PHP Notice:  Undefined variable: text_cart in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 100
+2015-01-11 16:05:12 - PHP Notice:  Undefined variable: text_items in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 101
+2015-01-11 16:05:12 - PHP Notice:  Undefined variable: filter_name in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 106
+2015-01-11 16:05:12 - PHP Notice:  Undefined variable: text_search in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 109
+2015-01-11 16:05:12 - PHP Notice:  Undefined variable: text_cart in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 112
+2015-01-11 16:05:13 - PHP Notice:  Undefined variable: languages in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 64
+2015-01-11 16:05:13 - PHP Notice:  Undefined variable: currencies in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 75
+2015-01-11 16:05:13 - PHP Notice:  Undefined variable: text_cart in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 100
+2015-01-11 16:05:13 - PHP Notice:  Undefined variable: text_items in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 101
+2015-01-11 16:05:13 - PHP Notice:  Undefined variable: filter_name in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 106
+2015-01-11 16:05:13 - PHP Notice:  Undefined variable: text_search in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 109
+2015-01-11 16:05:13 - PHP Notice:  Undefined variable: text_cart in C:\xampp\htdocs\upload\catalog\view\theme\default\template\common\header.tpl on line 112
+2015-01-11 16:05:17 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\upload/catalog/view/theme/default/template/common/header.tpl! in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2015-01-11 16:05:18 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\upload/catalog/view/theme/default/template/common/header.tpl! in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2015-01-11 16:05:19 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\upload/catalog/view/theme/default/template/common/header.tpl! in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2015-01-11 16:05:20 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\upload/catalog/view/theme/default/template/common/header.tpl! in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2015-01-11 16:05:20 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\upload/catalog/view/theme/default/template/common/header.tpl! in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2015-01-11 16:15:18 - PHP Notice:  Undefined index: position in C:\xampp\htdocs\upload\admin\controller\module\magiczoomplus-opencart-module\boxes.inc on line 13
+2015-01-11 16:15:30 - PHP Notice:  Undefined index: position in C:\xampp\htdocs\upload\admin\controller\module\magiczoomplus-opencart-module\boxes.inc on line 13
