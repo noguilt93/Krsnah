@@ -634,7 +634,7 @@ display: block;
 }
 .product-thumb .button-group {
 border-top: 1px solid #ddd;
-background-color: #eee;
+background-color: #fff;
 overflow: auto;
 }
 .product-list .product-thumb .button-group {
@@ -649,10 +649,11 @@ border-left: none;
 .product-thumb .button-group button {
 width: 60%;
 border: none;
+margin-bottom: 10px;
 display: inline-block;
 float: left;
-background-color: #eee;
-color: #888;
+background-color: #303030;
+color: white;
 38px;
 font-weight: bold;
 text-align: center;
@@ -663,8 +664,8 @@ width: 20%;
 border-left: 1px solid #ddd;
 }
 .product-thumb .button-group button:hover {
-color: #444;
-background-color: #ddd;
+color: white;
+background-color: #d22047;
 text-decoration: none;
 cursor: pointer;
 }
